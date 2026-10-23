@@ -1,1 +1,2 @@
 # Gestion-quantitative-de-portefeuille
+Un projet de finance quantitative de niveau professionnel mettant en œuvre la Théorie Moderne du Portefeuille de Markowitz. Le code intègre une simulation de Monte-Carlo (10 000 portefeuilles générés), le tracé de la Frontière Efficiente, l'optimisation par programmation non linéaire (maximisation du Ratio de Sharpe et minimisation de la variance), ainsi qu'une analyse rigoureuse des risques extrêmes (VaR 95%, CVaR et Maximum Drawdown). Le tout est validé par un backtest historique comparatif face à un benchmark de marché.
